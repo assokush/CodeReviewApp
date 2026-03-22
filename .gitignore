@@ -9,10 +9,18 @@
 /.idea/assetWizardSettings.xml
 .DS_Store
 /build
+build/
 /captures
+*.log
 .externalNativeBuild
 .cxx
 local.properties
+
+# IDE & tooling
+.claude/
+.github/
+.idea/
+.kotlin/
 
 # Python
 __pycache__/
